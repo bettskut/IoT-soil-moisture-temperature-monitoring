@@ -1,0 +1,7 @@
+const char* WIFI_SSID = "part of cumlauderss";
+const char* WIFI_PASS = "dtujuh/72";
+
+const char* APP_KEY    = "fb0bc21c-b56a-4c88-bb5e-53adde935bf3";
+const char* APP_SECRET = "7243389b-355c-47fc-b944-10d3e00b5fda-8b27c305-a367-4b21-a608-1288b54189f4";
+
+const char* DEVICE_ID  = "691dca9c6ebb39d664bb0775";
